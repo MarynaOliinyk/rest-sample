@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.omdbapi.ReturnTop10FromListTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-12-02T07:02:14" hostname="user496" time="114.554">
+  <properties/>
+  <testcase name="returnTop10FromListTest[0](actors)" classname="com.omdbapi.ReturnTop10FromListTest" time="50.286"/>
+  <testcase name="returnTop10FromListTest[1](contries)" classname="com.omdbapi.ReturnTop10FromListTest" time="33.985"/>
+  <testcase name="returnTop10FromListTest[2](directors)" classname="com.omdbapi.ReturnTop10FromListTest" time="30.247"/>
+  <system-out><![CDATA[{Robert De Niro=6, Aamir Khan=5, Leonardo DiCaprio=5, Tom Hanks=5, Clint Eastwood=4, Harrison Ford=3, Marlon Brando=3,  Joe Pesci=3,  Sean Astin=3,  Steve Buscemi=3}
+{USA=145,  USA=26, UK=23,  UK=17, Japan=15,  France=14, India=11,  Germany=8, Italy=8, Germany=7}
+{Martin Scorsese=8, Stanley Kubrick=7, Christopher Nolan=7, Alfred Hitchcock=6, Steven Spielberg=6, Billy Wilder=6, Akira Kurosawa=5, Charles Chaplin=5, Hayao Miyazaki=5, Quentin Tarantino=5}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
